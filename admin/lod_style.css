@@ -1,0 +1,12 @@
+body{
+    background-color: #5BBCEC;
+    background-image: url("images_avatar/solnce_i_nebo_24_1920x1200.jpg");
+    background-size: 100%;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 25%;
+}
+.error{
+    font-size: 16px;
+    color: red;
+}
