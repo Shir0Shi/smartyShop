@@ -1,0 +1,10 @@
+body
+{
+    background-color: lavender;
+
+}
+h1,h2
+{
+    border: 2px solid #ccc;
+    border-shadow: 20px 20px 20px #fff;
+}
